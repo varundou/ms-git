@@ -1,6 +1,6 @@
 plugin: azure_rm
 include_vm_resource_groups:
-- learn-ansible-rg
+- varun-senthilkumar
 auth_source: auto
 keyed_groups:
 - prefix: tag
